@@ -171,13 +171,13 @@
       <version>1.8.5</version>
       <scope>test</scope>
     </dependency>
-  </dependencies>
-  <dependency>
-            <groupId>org.projectlombok</groupId>
+           <dependency>
+         <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>1.16.22</version>
         </dependency>
 
+         </dependencies>
   <scm>
     <connection>scm:git:git@github.com:gabrielf/maven-samples.git</connection>
     <developerConnection>scm:git:git@github.com:gabrielf/maven-samples.git</developerConnection>
